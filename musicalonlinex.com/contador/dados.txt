@@ -1,0 +1,521 @@
+ - Segunda-Feira, 14 de Maio de 2018 - 177.79.31.171 - Unknown OS Platform - Chrome -  - Federal District - BrasÃ­lia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.222.58.20 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 186.194.189.222 - Windows 7 - Internet Explorer -  - Sao Paulo - Andradina - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 170.150.106.21 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Rio Grande - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.45.77.195 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.45.77.195 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.50.49.227 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 200.179.23.102 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.75.73.111 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.242.176.4 - Windows 7 - Internet Explorer -  - Bahia - ValenÃ§a - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 170.84.50.163 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Nova IguaÃ§u - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.185.84.224 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.53.147.134 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Petrolina - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.106.1.25 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.183.155.95 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.15.52.201 - Windows 7 - Internet Explorer -  - Parana - Bocaiuva do Sul - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.17.66.187 - Windows 7 - Internet Explorer -  - Minas Gerais - Ipatinga - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.179.130.142 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Nova IguaÃ§u - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.62.56.189 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - AraxÃ¡ - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.30.236.238 - Windows 7 - Internet Explorer -  - Parana - Vera Cruz - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.0.84.147 - Windows 7 - Internet Explorer -  - Sao Paulo - Itanhaem - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 200.229.173.131 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Sao Goncalo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.215.201.14 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 181.213.41.162 - Windows 7 - Internet Explorer -  - Alagoas - MaceiÃ³ - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.136.151.16 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - NiterÃ³i - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.37.81.71 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Lages - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.222.111.65 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.207.194.38 - Windows 7 - Internet Explorer -  - Minas Gerais - Juiz de Fora - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.68.37.149 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Jandira - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.13.225.186 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Suzano - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.222.92.132 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.2.145.119 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Presidente Prudente - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.54.76.110 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.148.226.20 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.252.49.189 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.27.189.11 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.133.108.236 - Windows 7 - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.73.122.24 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Duque de Caxias - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.191.199.125 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio das Ostras - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.191.166.216 - Windows 7 - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.11.207.225 - Unknown OS Platform - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.254.39.247 - Windows 7 - Internet Explorer -  - Sao Paulo - Osasco - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.17.74.154 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o JosÃ© dos Campos - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.1.124.106 - Windows 8 - Internet Explorer -  - Sao Paulo - Suzano - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.70.86.129 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Belford Roxo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 131.161.108.115 - Unknown OS Platform - Internet Explorer -  - Ceara - Caucaia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.22.195.146 - Windows 7 - Internet Explorer -  - Sao Paulo - Guarulhos - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 186.235.102.14 - Windows 7 - Internet Explorer -  - Minas Gerais - Juiz de Fora - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.4.75.131 - Windows 7 - Internet Explorer -  - Santa Catarina - FlorianÃ³polis - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.187.180.100 - Windows 7 - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.152.9.190 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.44.62.245 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Montes Claros - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.127.239.154 - Windows 7 - Internet Explorer -  - Parana - Umuarama - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.210.183.10 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.14.166.205 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Belford Roxo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.33.68.128 - Windows 7 - Internet Explorer -  - Sao Paulo - Barretos - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.110.101.244 - Windows 7 - Internet Explorer -  - Alagoas - Arapiraca - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.95.227.244 - Windows 7 - Internet Explorer -  - Sao Paulo - Guaruja - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.188.194.129 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.131.22.14 - Windows 7 - Internet Explorer -  - Amapa - MacapÃ¡ - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.37.246.107 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Biguacu - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.136.151.78 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - NiterÃ³i - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.25.130.76 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Araruama - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.59.196.63 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.131.29.213 - Windows 8 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.82.197.249 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.253.17.182 - Windows 7 - Internet Explorer -  - Rondonia - Porto Velho - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.8.97.12 - Windows 7 - Internet Explorer -  - Bahia - Itaparica - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.2.77.185 - Unknown OS Platform - Internet Explorer -  - Tocantins -  - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.36.219.166 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.14.88.9 - Windows 8 - Internet Explorer -  - Goias - Nazario - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 138.36.57.5 - Windows 7 - Internet Explorer -  - Sao Paulo - Maua - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 186.249.214.60 - Unknown OS Platform - Internet Explorer -  - Para - Paragominas - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.56.83.202 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Mogi das Cruzes - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.92.182.32 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 186.223.15.207 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Santa Barbara d'Oeste - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.253.131.34 - Unknown OS Platform - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.122.5.23 - Windows 7 - Internet Explorer -  - Sao Paulo - Osasco - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.158.138.128 - Windows 7 - Internet Explorer -  - Alagoas - MaceiÃ³ - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.4.75.121 - Windows 7 - Internet Explorer -  - Santa Catarina - FlorianÃ³polis - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 201.21.171.111 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 181.222.88.126 - Unknown OS Platform - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.223.176.217 - Windows 7 - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.131.80.146 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Americana - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.156.227.72 - Windows 7 - Internet Explorer -  - Sao Paulo - Sorocaba - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 189.49.76.15 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.188.33.98 - Windows 7 - Internet Explorer -  - Sao Paulo - RibeirÃ£o Preto - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.105.180.215 - Unknown OS Platform - Internet Explorer -  - Sergipe - Aracaju - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.237.254.90 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Campinas - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.95.10.3 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Andradina - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.95.10.3 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Andradina - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 200.216.41.180 - Windows 7 - Internet Explorer -  - Minas Gerais - Paracatu - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.98.80.251 - Windows 7 - Internet Explorer -  - Espirito Santo - Sao Joao - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.83.54.107 - Unknown OS Platform - Internet Explorer -  - Bahia - VitÃ³ria da Conquista - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.7.192.222 - Windows 7 - Internet Explorer -  - Para - Sao Domingos do Araguaia - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.55.229.57 - Windows 7 - Internet Explorer -  - Santa Catarina - Treviso - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.34.70.247 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.217.55.129 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Vila Velha - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 179.126.4.139 - Windows 7 - Internet Explorer -  - Minas Gerais - Nova Ponte - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 191.191.93.113 - Windows 7 - Internet Explorer -  - Santa Catarina - FlorianÃ³polis - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 177.79.60.54 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Segunda-Feira, 14 de Maio de 2018 - 187.64.79.184 - Unknown OS Platform - Internet Explorer -  - ParaÃ­ba - JoÃ£o Pessoa - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.217.201.83 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.210.222.182 - Windows 7 - Internet Explorer -  - Minas Gerais - Araguari - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.79.30.66 - Windows 7 - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.154.32.189 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Guararapes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.40.77.87 - Unknown OS Platform - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.34.184.148 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Santos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.158.163.99 - Windows 7 - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.157.221.240 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.6.126.59 - Unknown OS Platform - Internet Explorer -  - Amapa - MacapÃ¡ - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.13.91.90 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.8.158.148 - Windows 7 - Internet Explorer -  - Bahia - Santo Estevao - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.98.92.55 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.8.142.172 - Windows 7 - Internet Explorer -  - Sao Paulo - Dourado - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.109.143.8 - Windows 7 - Internet Explorer -  - Espirito Santo - Guacui - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.214.103.75 - Unknown OS Platform - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.129.178.98 - Unknown OS Platform - Internet Explorer -  - Tocantins - AraguaÃ­na - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.129.178.98 - Unknown OS Platform - Internet Explorer -  - Tocantins - AraguaÃ­na - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.19.158.239 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.193.156.232 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.84.66.106 - Unknown OS Platform - Internet Explorer -  - Bahia - Senhor do Bonfim - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.235.171.238 - Windows 7 - Internet Explorer -  - Bahia - Alcobaca - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.6.233.88 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.178.145.242 - Windows 7 - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.183.39.197 - Windows 8 - Internet Explorer -  - Sao Paulo - Americana - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.39.145.212 - Windows 7 - Internet Explorer -  - Sao Paulo - Piracicaba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.84.5.108 - Windows 7 - Internet Explorer -  - Sao Paulo - Laranjal Paulista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.206.96.226 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Serra - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.104.45.90 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Sao Jose do Rio Preto - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.211.134.102 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Nova IguaÃ§u - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 167.249.190.23 - Windows 7 - Internet Explorer -  - Bahia - VitÃ³ria da Conquista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.0.42.220 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.206.95.58 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.111.117.122 - Windows 7 - Internet Explorer -  - Sao Paulo - Cafelandia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.90.41.5 - Windows 7 - Internet Explorer -  - Para -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.133.110.188 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.142.16.16 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.82.163.84 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.94.221.32 - Windows 7 - Internet Explorer -  - Minas Gerais - Manhuacu - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.34.250.72 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.191.164.192 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Carlos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.62.53.92 - Windows 7 - Internet Explorer -  - Minas Gerais - AraxÃ¡ - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.253.161.2 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Natal - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.82.142.31 - Unknown OS Platform - Internet Explorer -  - Para -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.178.126.34 - Windows 7 - Internet Explorer -  - Sergipe - Aracaju - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.19.85.98 - Windows 7 - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.62.80.64 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.149.109.39 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.11.79.52 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.121.240.85 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.82.225.247 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.183.166.76 - Windows 7 - Internet Explorer -  - Mato Grosso - VÃ¡rzea Grande - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.134.181.13 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.187.68.245 - Windows 7 - Internet Explorer -  - Sao Paulo - Braganca Paulista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.3.222.95 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Jacinto Machado - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.250.222.84 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.42.124.92 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.178.250.68 - Windows 7 - Internet Explorer -  - Espirito Santo - Serra - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.37.217.132 - Unknown OS Platform - Internet Explorer -  - Rondonia - Ouro Preto do Oeste - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.213.251.160 - Windows 7 - Internet Explorer -  - Sao Paulo - Barueri - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.120.151.40 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.219.4.243 - Windows 7 - Internet Explorer -  - Rio de Janeiro - PetrÃ³polis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.210.215.84 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.158.185.198 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o JosÃ© dos Campos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.95.29.66 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 138.204.24.183 - Windows 7 - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.112.246.153 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.179.145.119 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Sao Joao de Meriti - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.193.230.131 - Windows 7 - Internet Explorer -  - Goias - Piracanjuba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.194.164.126 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.83.195.2 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.179.249.137 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - JaÃº - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.94.201.112 - Windows 7 - Internet Explorer -  - Parana - Londrina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.9.44.35 - Windows 7 - Internet Explorer -  - Sao Paulo - Aracoiaba da Serra - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.101.189.218 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.55.249.175 - Windows 7 - Internet Explorer -  - Minas Gerais - Ituiutaba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.40.137.204 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.128.147.65 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.14.135.81 - Windows 7 - Internet Explorer -  - Santa Catarina - FlorianÃ³polis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.26.67.144 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.13.249.29 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Vila Velha - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.115.207.229 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 168.195.183.141 - Windows 7 - Internet Explorer -  - Pernambuco - Jaboatao dos Guararapes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.192.254.220 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.35.170.125 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.23.50.201 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 131.0.218.183 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.6.234.41 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.188.170.19 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.110.227.66 - Unknown OS Platform - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.54.82.69 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.82.225.247 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.224.183.7 - Windows 7 - Internet Explorer -  - Sao Paulo - Ipero - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.66.224.166 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.5.249.118 - Windows 7 - Internet Explorer -  - Sao Paulo - Varzea Paulista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.247.196.87 - Unknown OS Platform - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.159.56.196 - Windows 7 - Internet Explorer -  - Sao Paulo - Campinas - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.217.144.43 - Unknown OS Platform - Internet Explorer -  - Piaui - Teresina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 152.254.170.100 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.252.128.230 - Windows 7 - Internet Explorer -  - Goias - Nova Gloria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.134.174.7 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.96.159.5 - Windows 7 - Internet Explorer -  - Sao Paulo - Taubate - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.215.216.89 - Windows 7 - Internet Explorer -  - Para - Ananindeua - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.192.211.118 - Windows 7 - Internet Explorer -  - Parana - ParanaguÃ¡ - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.48.140.51 - Windows 7 - Internet Explorer -  - Bahia - VitÃ³ria da Conquista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.159.56.4 - Windows 7 - Internet Explorer -  - Sao Paulo - Campinas - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.198.148.128 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 138.122.28.52 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Cabrobo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.3.135.151 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Blumenau - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.254.38.20 - Windows 7 - Internet Explorer -  - Sao Paulo - Osasco - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.21.161.40 - Windows 7 - Internet Explorer -  - Sao Paulo - Santos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.222.127.38 - Windows 7 - Internet Explorer -  - Sao Paulo - Sertaozinho - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.107.132.221 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Volta Redonda - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.110.119.63 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.14.150.125 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Barra Velha - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.181.71.154 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.54.212.38 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.98.207.114 - Windows 7 - Internet Explorer -  - Sao Paulo - Sao Jose do Rio Preto - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.234.154.101 - Windows 7 - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.6.230.111 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.5.210.220 - Windows 7 - Internet Explorer -  - Sao Paulo - RibeirÃ£o Preto - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 131.0.217.84 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Caraguatatuba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.20.195.19 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.151.255.186 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.32.137.9 - Windows 7 - Internet Explorer -  - Bahia - VitÃ³ria da Conquista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.216.109.203 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.214.146.82 - Windows 7 - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 170.150.104.0 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Rio Grande - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.131.151.219 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.157.99.189 - Windows 7 - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.53.146.240 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Petrolina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.97.217.17 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.59.128.34 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.71.35.59 - Windows 7 - Internet Explorer -  - Espirito Santo - Santa Maria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.41.194.145 - Unknown OS Platform - Internet Explorer -  - Piaui - Teresina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.123.64.29 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Natal - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.41.194.145 - Unknown OS Platform - Internet Explorer -  - Piaui - Teresina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.189.23.173 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.65.62.71 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Nilopolis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.13.87.50 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.11.94.195 - Windows 7 - Internet Explorer -  - Santa Catarina - CaÃ§ador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.82.4.157 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.56.123.170 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Bernardo do Campo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.95.10.104 - Windows 7 - Internet Explorer -  - Sao Paulo - Andradina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.81.163.22 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.87.77.42 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Ourinhos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.216.191.108 - Windows 7 - Internet Explorer -  - Amapa - MacapÃ¡ - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.215.158.70 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Bernardo do Campo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.75.97.183 - Windows 7 - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.35.184.15 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Sao Luiz Gonzaga - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.156.245.165 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Sapucaia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.94.210.34 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Bom Jesus do Itabapoana - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.249.143.217 - Windows 8 - Internet Explorer -  - Sao Paulo - HortolÃ¢ndia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.21.0.42 - Unknown OS Platform - Internet Explorer -  - Federal District - Sobradinho - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.185.35.75 - Windows 7 - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.37.238.124 - Windows 7 - Internet Explorer -  - Ceara - Juazeiro do Norte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.36.177.53 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.189.235.85 - Unknown OS Platform - Internet Explorer -  - Piaui - Teresina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 131.0.218.105 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.61.192.205 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Natal - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.137.227.46 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Presidente Kennedy - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.143.161.159 - Windows 7 - Internet Explorer -  - Sao Paulo - Indaiatuba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.19.166.75 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Mogi das Cruzes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.8.240.43 - Unknown OS Platform - Internet Explorer -  - Bahia - Eunapolis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.13.90.76 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.225.217.182 - Windows 7 - Internet Explorer -  - Minas Gerais - UberlÃ¢ndia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.180.180.252 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Sorocaba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.188.134.136 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Itapevi - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.111.79.229 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.177.214.215 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.158.126.143 - Windows 7 - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.19.184.203 - Windows 7 - Internet Explorer -  - Ceara - Iguatu - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.10.102.79 - Windows 7 - Internet Explorer -  - Mato Grosso - VÃ¡rzea Grande - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.189.22.247 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.218.184.118 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.242.195.38 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Paracambi - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.27.104.105 - Unknown OS Platform - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.241.69.46 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Duque de Caxias - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.128.110.84 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Vicosa - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.152.167.139 - Windows 7 - Internet Explorer -  - Minas Gerais - Barao de Cocais - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.111.55.99 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.6.227.233 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.14.15.28 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Nova IguaÃ§u - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.194.163.144 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.193.30.22 - Windows 7 - Internet Explorer -  - Espirito Santo - Guacui - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.182.223.130 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.212.239.25 - Windows 7 - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.126.139.88 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Sao Jose do Turvo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.77.138.110 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.157.228.16 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Sorocaba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.204.81.206 - Unknown OS Platform - Internet Explorer -  - Parana - Ponta Grossa - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.103.146.44 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.194.182.185 - Windows 7 - Internet Explorer -  - Sao Paulo - Andradina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.240.181.1 - Windows 7 - Internet Explorer -  - Minas Gerais - Caxambu - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.50.64.51 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.195.42.47 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Sao Goncalo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.221.74.79 - Windows 7 - Internet Explorer -  - Minas Gerais - TeÃ³filo Otoni - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.98.29.202 - Windows 7 - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.159.59.104 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Campinas - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.82.225.247 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 131.161.7.213 - Windows 7 - Internet Explorer -  - Minas Gerais - Itabira - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.4.40.179 - Windows 7 - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.211.239.99 - Unknown OS Platform - Internet Explorer -  - Piaui - Teresina - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.110.125.236 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.205.8.162 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.130.223.11 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.99.71.227 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.65.151.141 - Windows 7 - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.35.151.222 - Windows 7 - Internet Explorer -  - Bahia - Feira de Santana - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.6.16.135 - Windows 7 - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.115.138.106 - Windows 7 - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.236.224.181 - Windows 7 - Internet Explorer -  - Minas Gerais - Barbacena - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.72.153.15 - Unknown OS Platform - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 170.81.4.237 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.207.55.172 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.1.16.16 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.97.178.216 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.32.132.113 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Caxias do Sul - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.37.229.177 - Unknown OS Platform - Internet Explorer -  - Ceara - Juazeiro do Norte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.34.192.145 - Windows 7 - Internet Explorer -  - Goias - Goias - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.45.8.232 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Praia Grande - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 170.79.95.6 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.99.134.181 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Itapolis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.202.149.20 - Unknown OS Platform - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.181.15.201 - Windows 7 - Internet Explorer -  - Bahia - Camacari - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.84.181.127 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Ourinhos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.43.38.77 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - NiterÃ³i - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.45.88.176 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.129.1.156 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.222.68.180 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.178.251.28 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Mogi das Cruzes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 170.81.82.92 - Windows 7 - Internet Explorer -  - Rio Grande do Norte - Alto do Rodrigues - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.29.33.56 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.160.94.251 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Joanopolis - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.3.62.137 - Windows 7 - Internet Explorer -  - Mato Grosso - Barra do Bugres - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.58.88.143 - Windows 7 - Internet Explorer -  - Parana - Foz do IguaÃ§u - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.107.232.158 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Mossoro - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.1.115.81 - Windows 7 - Internet Explorer -  - Sao Paulo - Indaiatuba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.26.11.225 - Windows 7 - Internet Explorer -  - Sao Paulo - Bauru - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 132.255.92.19 - Windows 7 - Internet Explorer -  - Rio de Janeiro - MacaÃ© - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.5.144.232 - Windows 7 - Internet Explorer -  - Santa Catarina - Dionisio Cerqueira - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 131.0.216.91 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.58.95.214 - Windows 7 - Internet Explorer -  - Parana - Foz do IguaÃ§u - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.14.203.161 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Canoas - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.143.18.167 - Windows 8 - Internet Explorer -  - Sao Paulo - Mogi das Cruzes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.84.64.176 - Windows 7 - Internet Explorer -  - Pernambuco - Pao de Acucar - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.25.43.99 - Windows 7 - Internet Explorer -  - Rio de Janeiro - NiterÃ³i - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.247.186.137 - Windows 7 - Internet Explorer -  - Amazonas - Boa Vista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 170.79.195.211 - Windows 7 - Internet Explorer -  - Amapa - MacapÃ¡ - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.7.83.75 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Agua Vermelha - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.247.186.251 - Windows 7 - Internet Explorer -  - Amazonas - Boa Vista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.98.49.195 - Unknown OS Platform - Internet Explorer -  - Pernambuco - Jaboatao dos Guararapes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.19.210.7 - Windows 7 - Internet Explorer -  - Ceara - Limoeiro do Norte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.177.251.243 - Windows 7 - Internet Explorer -  - Minas Gerais - Pedro Leopoldo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.195.220.171 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Barretos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.102.151.235 - Windows 7 - Internet Explorer -  - Sao Paulo - Santo AndrÃ© - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.8.188.198 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.72.182.57 - Windows 7 - Internet Explorer -  - Rondonia - Porto Velho - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.236.196.239 - Windows 7 - Internet Explorer -  - Amazonas - Boa Vista - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 201.162.126.7 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.248.97.25 - Unknown OS Platform - Internet Explorer -  - Parana - Cascavel - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.129.1.156 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.194.70.188 - Windows 7 - Internet Explorer -  - Sao Paulo - Campinas - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.63.96.229 - Windows 7 - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.180.68.106 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Campos dos Goytacazes - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 189.40.106.54 - Unknown OS Platform - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.189.157.15 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Rio Grande - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.180.178.23 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Sorocaba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 177.137.247.99 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Volta Redonda - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 191.23.24.38 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Carapicuiba - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 186.215.69.95 - Windows 7 - Internet Explorer -  - Federal District - BrasÃ­lia - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 187.57.157.167 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 200.161.235.114 - Windows 7 - Internet Explorer -  - Sao Paulo - Santos - Brazil
+ - Terça-Feira, 15 de Maio de 2018 - 179.192.172.227 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Duque de Caxias - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.129.1.156 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.7.192.10 - Unknown OS Platform - Internet Explorer -  - Para - Sao Domingos do Araguaia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 200.181.99.4 - Windows 7 - Internet Explorer -  - Minas Gerais - Campos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.13.178.210 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.67.100.85 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.240.221.142 - Windows 7 - Internet Explorer -  - Santa Catarina - Ituporanga - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.78.169.196 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Montanha - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 186.242.123.244 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Sao Goncalo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.177.229.56 - Unknown OS Platform - Internet Explorer -  - Parana - SÃ£o JosÃ© dos Pinhais - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.70.225.34 - Windows 7 - Internet Explorer -  - Rio Grande do Norte - Natal - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.110.76.79 - Windows 7 - Internet Explorer -  - Sao Paulo - Salto - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 152.238.32.192 - Windows 7 - Internet Explorer -  - Maranhao - Vitoria do Mearim - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 186.247.203.205 - Unknown OS Platform - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.58.183.109 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Novo Hamburgo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.21.36.234 - Windows 7 - Internet Explorer -  - Sao Paulo - Monte Azul Paulista - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.198.112.54 - Windows 7 - Internet Explorer -  - Sao Paulo - Guarulhos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.126.163.9 - Windows 7 - Internet Explorer -  - Sao Paulo - Assis - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.24.161.149 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 138.118.120.43 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Presidente Venceslau - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.82.47.40 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.177.207.46 - Unknown OS Platform - Internet Explorer -  - Santa Catarina - Navegantes - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.182.217.95 - Windows 7 - Internet Explorer -  - Alagoas - MaceiÃ³ - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.131.20.1 - Unknown OS Platform - Internet Explorer -  - Para - Abaetetuba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.79.215.243 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Santos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.14.219.18 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Dois Irmaos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.102.62.26 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.95.28.58 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.220.213.139 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Uruguaiana - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.29.17.131 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Barra Mansa - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 200.165.155.190 - Windows 7 - Internet Explorer -  - Bahia - IlhÃ©us - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.20.83.102 - Windows 7 - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.206.176.252 - Windows 7 - Internet Explorer -  - Pernambuco - Recife - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.114.89.243 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Canoas - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.21.251.154 - Windows 7 - Internet Explorer -  - Sao Paulo - Santos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.35.104.88 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - AraÃ§atuba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.19.208.166 - Windows 7 - Internet Explorer -  - ParaÃ­ba - Patos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 152.238.232.112 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Itatiaia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.0.39.141 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.6.142.94 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.36.129.172 - Windows 7 - Internet Explorer -  - Espirito Santo - Vila Velha - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.134.134.221 - Unknown OS Platform - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 186.205.0.138 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.113.131.39 - Windows 7 - Internet Explorer -  - Sao Paulo - Varzea Paulista - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.37.162.57 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Mossoro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.34.27.169 - Windows 7 - Internet Explorer -  - Sao Paulo - Piracicaba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.78.139.219 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Itapevi - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.222.167.33 - Windows 7 - Internet Explorer -  - Goias - Formosa - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.192.249.112 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.9.108.230 - Windows 7 - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 186.251.226.42 - Windows 7 - Internet Explorer -  - Sao Paulo - Atibaia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.34.47.37 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Contagem - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 200.97.83.255 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - DivinÃ³polis - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.40.229.219 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Norte - Parnamirim - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.234.252.70 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - VitÃ³ria - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.59.212.26 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.8.120.119 - Unknown OS Platform - Internet Explorer -  - Bahia - IlhÃ©us - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.208.62.246 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.6.227.173 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.8.253.44 - Unknown OS Platform - Internet Explorer -  - Bahia - Eunapolis - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.219.83.248 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.48.24.206 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Nova IguaÃ§u - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.154.36.170 - Windows 7 - Internet Explorer -  - Sao Paulo - Promissao - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.127.137.86 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Sananduva - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.122.46.14 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.213.61.252 - Windows 7 - Internet Explorer -  - Sao Paulo - Embu - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.222.81.80 - Unknown OS Platform - Internet Explorer -  - Amazonas - Manaus - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.74.162.160 - Windows 7 - Internet Explorer -  - Goias - Damolandia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.68.4.75 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o JosÃ© dos Campos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 170.238.118.54 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 170.83.120.254 - Windows 7 - Internet Explorer -  - Sao Paulo - Barretos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 168.227.12.7 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Itaquaquecetuba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.219.209.175 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Porto Alegre - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.83.51.212 - Windows 7 - Internet Explorer -  - Bahia - VitÃ³ria da Conquista - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.81.167.69 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.213.55.119 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.105.155.158 - Unknown OS Platform - Internet Explorer -  - Tocantins - AraguaÃ­na - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.220.172.202 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.2.37.204 - Windows 7 - Internet Explorer -  - Rio Grande do Norte - Santo Antonio - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.13.35.13 - Windows 7 - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.29.186.221 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.0.44.197 - Windows 7 - Internet Explorer -  - Rondonia - Porto Velho - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 186.241.185.81 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.79.78.189 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.14.130.240 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Duque de Caxias - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.126.19.48 - Windows 7 - Internet Explorer -  - Sao Paulo - JaÃº - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.6.135.222 - Windows 7 - Internet Explorer -  - Sao Paulo - Itapira - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.82.37.165 - Windows 7 - Internet Explorer -  - Para - BelÃ©m - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.94.193.33 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - SÃ£o JoÃ£o del Rei - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.79.78.189 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.69.223.65 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Sao Jose do Rio Preto - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.139.118.117 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.79.36.88 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.79.35.88 - Windows 7 - Internet Explorer -  -  -  - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.96.176.120 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.102.228.247 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Bernardo do Campo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.10.78.174 - Unknown OS Platform - Internet Explorer -  - Parana - Campina Grande do Sul - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.221.11.148 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Passos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.17.190.171 - Windows 7 - Internet Explorer -  - Sao Paulo - Cotia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.35.127.156 - Windows 7 - Internet Explorer -  - ParaÃ­ba - Campina Grande - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.241.66.62 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Vassouras - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 189.103.109.22 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - Novo Hamburgo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 187.54.111.226 - Windows 7 - Internet Explorer -  - Mato Grosso - Alto Araguaia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.6.130.120 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.102.34.12 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.198.91.131 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Guarulhos - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 191.187.42.44 - Unknown OS Platform - Internet Explorer -  - Minas Gerais - Governador Valadares - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.13.189.111 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.24.167.203 - Unknown OS Platform - Internet Explorer -  - Goias - Jatai - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 179.54.179.63 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 201.68.67.85 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Pirassununga - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 200.101.63.87 - Windows 7 - Internet Explorer -  - Federal District - Brasilandia - Brazil
+ - Quarta-Feira, 16 de Maio de 2018 - 177.81.30.215 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.37.211.198 - Windows 7 - Internet Explorer -  - Ceara - Juazeiro do Norte - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.79.101.213 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.148.151.220 - Windows 7 - Internet Explorer -  - Sao Paulo - SÃ£o Paulo - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 179.186.44.30 - Unknown OS Platform - Internet Explorer -  - Espirito Santo - Vila Velha - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 200.96.170.57 - Unknown OS Platform - Internet Explorer -  - Rio Grande do Sul - GravataÃ­ - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.16.179.105 - Windows 7 - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.41.31.116 - Windows 7 - Internet Explorer -  - Alagoas - Palmeira dos Indios - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 201.11.151.231 - Unknown OS Platform - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.113.20.42 - Unknown OS Platform - Internet Explorer -  - Goias - GoiÃ¢nia - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 179.97.241.254 - Unknown OS Platform - Internet Explorer -  - Bahia - Santo Antonio de Jesus - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.19.223.227 - Unknown OS Platform - Internet Explorer -  - Ceara - Acopiara - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.86.133.18 - Windows 7 - Internet Explorer -  - Rio Grande do Sul - Pelotas - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 186.247.197.211 - Unknown OS Platform - Internet Explorer -  - Maranhao - SÃ£o LuÃ­s - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 191.241.43.182 - Windows 7 - Internet Explorer -  - Rio Grande do Norte - Sao Jose de Mipibu - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.79.42.253 - Windows 7 - Internet Explorer -  - Ceara - Caucaia - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 138.204.24.214 - Unknown OS Platform - Internet Explorer -  - Parana - Curitiba - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.7.101.188 - Unknown OS Platform - Internet Explorer -  -  -  - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 201.10.97.166 - Unknown OS Platform - Internet Explorer -  - Parana - Sao Jose da Boa Vista - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 186.247.214.124 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.19.212.14 - Windows 7 - Internet Explorer -  - ParaÃ­ba - Patos - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 200.103.220.54 - Unknown OS Platform - Internet Explorer -  - Parana - Quatro Barras - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.42.207.250 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 186.240.128.11 - Windows 7 - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.193.192.21 - Unknown OS Platform - Internet Explorer -  - Bahia - Salvador - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.122.125.79 - Windows 7 - Internet Explorer -  - Sao Paulo - Osasco - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 187.22.134.63 - Unknown OS Platform - Internet Explorer -  - Sao Paulo - Guarulhos - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 186.216.191.144 - Windows 7 - Internet Explorer -  - Amapa - MacapÃ¡ - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 191.178.98.241 - Unknown OS Platform - Internet Explorer -  - Bahia - Lauro de Freitas - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.181.211.14 - Windows 7 - Internet Explorer -  - Minas Gerais - Belo Horizonte - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 189.106.180.22 - Unknown OS Platform - Internet Explorer -  - Rio de Janeiro - Sao Pedro da Aldeia - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.234.178.187 - Windows 7 - Internet Explorer -  - Bahia -  - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.104.113.190 - Windows 7 - Internet Explorer -  - Ceara - Fortaleza - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 201.28.118.34 - Windows 7 - Internet Explorer -  - Sao Paulo - Embu Guacu - Brazil
+ - Quinta-Feira, 17 de Maio de 2018 - 177.79.101.213 - Windows 7 - Internet Explorer -  - Rio de Janeiro - Rio de Janeiro - Brazil
