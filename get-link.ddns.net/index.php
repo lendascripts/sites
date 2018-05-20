@@ -1,5 +1,6 @@
 <?php
-
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 session_start();
 
 $DRIVER = 'mysql';
@@ -16,7 +17,6 @@ $N2 = '';
 
 $i = 0;
 $f = 0;
-
 
 if(isset($_POST['addURL']))
 {
@@ -82,6 +82,46 @@ if(isset($_POST['saveFile']))
 	}
 	echo $_POST['id'] . '-' . $_POST['file'] . 'saved';
 	$db->commit();
+	exit();
+}
+
+if(isset($_POST['getAccess']))
+{
+
+	$path = "../inetpub/logs/LogFiles/W3SVC5";
+	$dirsIterator = new RecursiveTreeIterator(new RecursiveDirectoryIterator($path));
+	$dirs = array();
+	$clickdata = [];
+
+	foreach ($dirsIterator as $pasta => $dirTree) {
+		if (is_dir($pasta)) {
+			$diretorio = dir($pasta);
+			{
+				$clicks = 0;
+				if($file != '.' && $file != '..')
+				{
+					if(file_exists($pasta.'/'.$file))
+						if(is_file($pasta.'/'.$file))
+						{
+							$handle = fopen($pasta.'/'.$file, "r");
+							while(!feof($handle))
+							{
+								$line = fgets($handle);
+								$filtroDownload = explode(' ',$line);
+								foreach($filtroDownload as $str)
+									if($str == '/'.$_POST['getAccess'])
+										$clicks++;
+							}
+							fclose($handle);
+							array_push($clickdata, [ 'data' => $file, 'clicks' => $clicks ]);
+						}
+				}
+			}
+			$diretorio->close();
+		}
+	}
+
+	echo json_encode($clickdata);
 	exit();
 }
 
@@ -246,6 +286,22 @@ if($result->rowCount() > 0)
 			});
 		});
 	}
+	
+	function getAccess(id, url) {
+		$.ajax({
+			type: 'POST',
+			dataType: 'json',
+			url: 'index.php',
+			data: { getAccess: url }
+		})
+		.done(function(data) {
+			var total = new Number(0);
+			for(i=0;i<data.length;i++) {
+				total += data[i].clicks;
+			}
+			$('#'+id).find('span').html(' - Quantidade de Cliques: ' + new Intl.NumberFormat("de-DE").format(total));
+		});
+	}
 	</script>
 </head>
 <body>
@@ -289,8 +345,11 @@ if($logado)
 				for($i=0;$i<count($links);$i++)
 				{
 					echo '<div data-role="collapsible" id="set'.($i+1).'" data-collapsed="true">';
+					echo '<script>';
+					echo 'setInterval(function() { getAccess("set'.($i+1).'", "'.$links[$i]['url'].'"); }, 1000);';
+					echo '</script>';
 					
-					echo '<h3>'.$links[$i]['user'].'</h3>';
+					echo '<h3>'.$links[$i]['user'].' <span> - Quantidade de Cliques: 0</span></h3>';
 					echo '<p>URL: <a href="http://'.$_SERVER['HTTP_HOST'] . '/' . $links[$i]['url'].'" target="_blank">http://'.$_SERVER['HTTP_HOST'] . '/' . $links[$i]['url'].'</a></p>';
 					echo '<p>URL SSL: <a href="https://'.$_SERVER['HTTP_HOST'] . '/' . $links[$i]['url'].'" target="_blank">https://'.$_SERVER['HTTP_HOST'] . '/' . $links[$i]['url'].'</a></p>';
 					
