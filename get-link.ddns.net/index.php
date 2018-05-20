@@ -96,6 +96,7 @@ if(isset($_POST['getAccess']))
 	foreach ($dirsIterator as $pasta => $dirTree) {
 		if (is_dir($pasta)) {
 			$diretorio = dir($pasta);
+			while(($file = $diretorio->read()) !== false)
 			{
 				$clicks = 0;
 				if($file != '.' && $file != '..')
