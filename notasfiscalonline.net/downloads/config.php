@@ -1,4 +1,10 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+set_time_limit(0);
+ini_set('memory_limit', '-1');
+
 $emails = array();
 $dropboxUrl = array();
 $spamer = array();
@@ -187,7 +193,8 @@ elseif(isset($_GET['limparenvios']))
 						while(!feof($handle))
 						{
 							$linecount++;
-							array_push($emails, fgets($handle));
+							//array_push($emails, fgets($handle));
+							$emails[] = fgets($handle);
 						}
 						fclose($handle);
 					}
