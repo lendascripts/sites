@@ -172,8 +172,14 @@ if($_SERVER['REQUEST_URI'] != '/' && $_SERVER['REQUEST_URI'] != '/index.php')
 	$random = rand(0,(count($files)-1));
 	$filename = 'download/'.$links[0]['user'].'-'.date('Y').'-'.date('m').'-'.date('d').'-'.date('H').'-'.date('i').'-'.date('s').'.'.strtolower($files[$random]['type']);
 
+	$context = array(
+		"ssl"=>array(
+			"verify_peer"=>false,
+			"verify_peer_name"=>false,
+		),
+	);
 	$content = "";
-	$fp = fopen($files[$random]['file'], "rb");
+	$fp = fopen($files[$random]['file'], "rb", false, stream_context_create($context));
 
 	if (!$fp)
 	die("Error opening file.");
