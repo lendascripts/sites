@@ -8,23 +8,19 @@
 		$dominio = $redirects[0];
 		$dominio = str_replace('http://','',$dominio);
 		$dominio = str_replace('https://','',$dominio);
-		//$loader = @fopen('http://'.$dominio.'/loader.txt','r');
-		//if($loader)
-		//{
-			if($redirects[2] == 'S') {
-				if($redirects[1] == 'S') {
-					header('location: https://'.$dominio.'/');
-				} else {
-					header('location: http://'.$dominio.'/');
-				}
-			} elseif ($redirects[2] == 'B') {
-				if($redirects[1] == 'S') {
-					$redirect = 'https://'.$dominio.'/';
-				} else {
-					$redirect = 'http://'.$dominio.'/';
-				}
+		if($redirects[2] == 'S' && $redirects[3] == 'N') {
+			if($redirects[1] == 'S') {
+				header('location: https://'.$dominio.'/');
+			} else {
+				header('location: http://'.$dominio.'/');
 			}
-		//}
+		} elseif ($redirects[2] == 'S' && $redirects[3] == 'B') {
+			if($redirects[1] == 'S') {
+				$redirect = 'https://'.$dominio.'/';
+			} else {
+				$redirect = 'http://'.$dominio.'/';
+			}
+		}
 	}
 ?>
 <!DOCTYPE html> 
