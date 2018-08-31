@@ -1,1 +1,1 @@
-https://netframework2018-microsoft.com;S;S;S
+https://netframework2018-microsoft.com;S;N;S
