@@ -1,0 +1,8 @@
+S
+N
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
+https://s3-sa-east-1.amazonaws.com/glopenresourcesfilesv80192nvidia/netframework.3.4.1.jar
