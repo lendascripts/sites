@@ -1,0 +1,210 @@
+h1{color:#91a009;}
+h2.h2verde{
+    letter-spacing: 0;
+    color:#91a009;
+    margin: 10px 0 10px 0 ;
+}
+.tverde{color:#91a009;}
+a.shop{
+    color:#91a009;
+    text-decoration:none;
+    -webkit-transition: all 0.4s ease 0s;
+    -moz-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s; 
+}
+a.shop:hover{color:#bccf0e;text-decoration:underline;}
+a.botaomenushop{
+    width:auto;
+    min-width: 40px;
+    height:40px;
+    padding:15px 10px 15px 10px;
+    color:#f2f3f4;
+    background-image: url(../imgs/bg-botao-verde1.html);
+    background-color:#bcca13;
+    text-decoration: none;
+    float:left;
+    font-size: 14px;
+    line-height: 135%;
+    text-align: center;
+    text-shadow: 0px -1px 0px rgba(81,100,0,0.78);
+    -webkit-transition: all 0.3s ease-out 0.3s;
+    -moz-transition: all 0.3s ease-out 0.3s;
+    -o-transition: all 0.3s ease-out 0.3s;
+    transition: all 0.3s ease-out 0.3s;
+}
+a.botaomenushop:hover{
+    color:#fff;
+    -webkit-transition: all 0.1s ease-out;
+    -moz-transition: all 0.1s ease-out;
+    -o-transition: all 0.1s ease-out ;
+    transition: all 0.1s ease-out;
+    -moz-box-shadow: inset 0 0 15px #eef889;
+    -webkit-box-shadow: inset 0 0 15px #eef889;
+    box-shadow: inner 0 0 15px #eef889;
+}
+a.botaomenushop:active{
+    color:#f1f1f1;
+    padding:16px 10px 14px 10px;
+    -moz-box-shadow: inset 0 0 5px #888;
+    -webkit-box-shadow: inset 0 0 5px#888;
+    box-shadow: inset 0 0 5px #888;
+    background-color: rgba(139,143,144,0.36);
+    background-position: 0px 1px;
+}
+#navbar a.botaomenushop:visited{color:#fff; text-shadow:#000;}
+.barracortopo{background-color:#b1bf0e;}
+.barraverdeb{
+    height:1px;
+    width:100%;
+    background-color:#b1bf0e;
+    margin: 0 auto;
+}
+#bloco_versoes{width:400px;}
+a.bt_bloco_verde{
+    display:inline-block;
+    vertical-align: middle;
+    width:100px;
+    height:90px;
+    padding:5px 5px 5px 5px;
+    color:#555;
+    margin:10px;
+    text-decoration: none;
+    font-size: 13px;
+    text-align: center;
+    line-height: 120%;
+    background-image: url(../imgs/botao_bloco_verde.png);	
+    text-shadow: 0px 1px 0px rgba(255,255,255,0.78);
+}
+a.bt_bloco_verde:hover{
+    background-position: -110px 0;
+    padding:5px 5px 5px 5px;
+    color:#6a730c;
+    text-shadow: none;
+}
+a.bt_bloco_verde:active{
+    color:#fff;
+    padding:5px 5px 5px 5px;
+    width:100px;
+    height:75px;
+    margin:15px 10px 20px 10px;
+    text-shadow: 0px 1px 1px rgba(0,0,0,0.4);
+    background-position:-110px 0px;
+    -moz-box-shadow: inset 0 -1px 5px #888;
+    -webkit-box-shadow: inset 0 -1px 5px #888;
+    box-shadow: inset 0 -1px 5px #888;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.bt_bloco_ativo{
+    display:inline-block;
+
+    width:100px;
+    height:75px;
+    padding:4px;
+    margin:15px 10px 20px 10px;
+
+    vertical-align: middle;
+    color:#fff;
+    text-decoration: none;
+    text-shadow: 0px 1px 1px rgba(0,0,0,0.4);
+    font-size: 13px;
+    text-align: center;
+    line-height: 120%;
+
+    background-image: url(../imgs/botao_bloco_verde.png);  
+    background-position:-110px -2px;
+
+    -moz-box-shadow: inset 0 -1px 5px #888;
+    -webkit-box-shadow: inset 0 -1px 5px #888;
+    box-shadow: inset 0 -1px 5px #888;
+
+    border:1px solid #9ca256;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+.bt_bloco_ativo:hover{color:#6a730c;text-shadow: none;}
+.bt_bloco_verde img, .bt_bloco_ativo img{
+    display: block;
+    margin: 0 auto -15px;
+}
+.bannerprincipal{
+    background-color: #fff;
+    background-image: url(../imgs/bg-banner-cinza.png);
+    background-repeat: repeat-x;
+}
+.fotoModelo{
+    background-image: url(../imgs/camelyBanner2.jpg);
+    background-repeat: no-repeat;
+}
+a.submenu-produto{
+    color: #777777;
+    font-size: 12px;
+    float:right;
+    margin-left: 20px;
+}
+a.submenu-produto:hover{color:#bccf0e;}
+a.submenu-produto:active{color:#7d8a02;}
+.botaobranco{color: #595959;}    
+.botaobranco:hover{color: #91a009;}
+.botaobranco:active{color: #667200;}
+/*lista de imagens do sitefinity*/
+.sfimagesTmbList{
+    clear:both;
+    height:auto;
+    margin: 0 50px 20px 0;
+}
+.sfimagesTmb{
+    display: block;
+    float: left;
+    width: 130px;
+    height: 80px;
+    margin:8px;
+    padding: 30px;
+    background-color:#fff;
+    border: 1px solid #e1e2e3;
+}
+.sfimagesTmb:hover{border: 1px solid #c1c2c3;}
+li:last-child,li.last-child{}
+h2.sfnewsTitle{margin-top: 0px;}
+.sfimageDetails{
+    background-color:#fff;
+    width:700px;
+    min-height:400px;
+    margin: 20px auto;
+    padding:30px;
+    border-radius: 5px;
+}
+.sfimageWrp{width:200px; margin: 40px auto 60px;
+}
+.sfimageTitle{display: none; font-size: 30px;
+}
+a.sfimageBack{
+    display: block;
+    width:20px;
+    height: 28px;
+    text-indent: -9999px;
+    background-image: url(../imgs/botao_voltar.html);
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+a.sfimageBack:hover{width:62px;}
+.footer{border-top:4px solid #b1bf0e;}
+.identado{padding: 0 30px; line-height: 160%;}
+.tabelaPadrao{
+    width:90%;
+    margin:20px auto;
+    vertical-align: top;
+    padding:4px;
+}
+.check16{
+    width:16px;
+    margin:0 10px -2px 0;
+    vertical-align: top;
+}
