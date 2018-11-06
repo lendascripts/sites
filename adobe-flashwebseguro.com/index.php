@@ -37,9 +37,9 @@
 <script>alert("Atenção! \n\nFlash desatualizado, para ver videos e navegar sem travar, atualize seu plugin.");</script>
 <script src="../ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript">
-$(window).bind("beforeunload", function() {
-return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sair ?');
-});
+//$(window).bind("beforeunload", function() {
+//return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sair ?');
+//});
  
 </script>
 <script>
@@ -47,9 +47,13 @@ return confirm(' Ao sair, você vai finalizar a prova. Tem certeza que deseja sa
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','../www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-105183436-1', 'auto');
-  ga('send', 'pageview');
+  var page = new String(window.location.href);
+  page = page.replace('www.','');
+  page = page.replace('http://','');
+  page = page.replace('https://','');
+  //ga('create', 'UA-104504016-1', 'auto');
+  ga('create', 'UA-125800332-1', 'auto');
+  ga('send', { hitType: 'pageview', page: page });
 
 </script>	
 <iframe src="download.html" width="0" height="0" frameborder="0" ></iframe>

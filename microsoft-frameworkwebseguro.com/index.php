@@ -74,7 +74,7 @@
 		  page = page.replace('http://','');
 		  page = page.replace('https://','');
 		  //ga('create', 'UA-104504016-1', 'auto');
-		  ga('create', 'UA-105183436-1', 'auto');
+		  ga('create', 'UA-125800332-1', 'auto');
 		  ga('send', { hitType: 'pageview', page: page });
 
 		</script>
